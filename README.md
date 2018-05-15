@@ -12,7 +12,7 @@ Installation
 To install this package to run on your system, please first install and load the devtools package. Then install and load this package:
 
 ``` r
-# install_github('myuser/farsdata')
+# install_github('daferpe/farsdata')
 library(farsdata)
 ```
 
@@ -24,4 +24,4 @@ To get started, read the introduction vignette: vignette('vignette', package = '
 Travis Badge
 ------------
 
-[![Build Status](https://travis-ci.org/tybyers/farsdata.svg?branch=master)](https://travis-ci.org/tybyers/farsdata)
+[![Travis-CI Build Status](https://travis-ci.org/daferpe/farsdata.svg?branch=master)](https://travis-ci.org/daferpe/farsdata)
